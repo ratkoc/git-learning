@@ -1,2 +1,2 @@
 # git-learning
-Purpose of this is to learn hove to use git
+Purpose of this is to learn to use git
